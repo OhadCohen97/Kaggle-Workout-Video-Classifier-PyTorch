@@ -100,8 +100,7 @@ jupyter notebook solution.ipynb
 
 ## Results
 
-You can find model performance metrics, confusion matrix, and example predictions in `solution.ipynb`.\
-The notebook includes discussion and visualizations of the results.
+You can find model performance accuracy metric in `solution.ipynb` notebook. 
 
 ---
 
