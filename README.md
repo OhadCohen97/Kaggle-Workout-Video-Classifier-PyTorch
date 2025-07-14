@@ -118,7 +118,7 @@ This project is for academic use. Please see [Kaggle's dataset terms of use](htt
 
 ## Contact
 
-For any questions or suggestions, feel free to open an issue or contact [Your Name](mailto\:your.email@example.com).
+For any questions or suggestions, feel free to open an issue or contact [Your Name](mailto\:ohad338@gmail.com).
 
 ---
 
