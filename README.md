@@ -43,8 +43,8 @@ This project implements a deep learning pipeline for classifying workout types f
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/OhadCohen97/Kaggle-Workout-Video-Classifier-PyTorch.git
+cd Kaggle-Workout-Video-Classifier-PyTorch
 ```
 
 ### 2. Install dependencies
