@@ -25,7 +25,7 @@ This project implements a deep learning pipeline for classifying workout types f
 ## Dataset
 
 - **Source:** [Kaggle - Workout Fitness Video Dataset](https://www.kaggle.com/datasets/hasyimabdillah/workoutfitness-video/data)
-- **Description:** Contains short video clips categorized by workout type (e.g., push-ups, squats, lunges, etc.), organized in folders by class name.
+- **Description:** Contains short video clips categorized by workout type (e.g., push-ups, squats, lunges, etc.) - 22 classes, organized in folders by class name.
 
 ---
 
