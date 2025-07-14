@@ -63,7 +63,6 @@ Typical dependencies (update as needed):
 - torchvision
 - numpy
 - opencv-python
-- tqdm
 
 ### 3. Download the dataset
 
