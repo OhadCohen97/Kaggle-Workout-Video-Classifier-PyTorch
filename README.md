@@ -11,13 +11,13 @@ This project implements a deep learning pipeline for classifying workout types f
 
 ```
 .
-├── CNN3D.py               # Implementation of the 3D CNN backbone
-├── VideoEncoder.py        # Video encoding and preprocessing utilities
-├── classification_layer.py # Classification layer for the model
-├── gymdata.py             # Custom PyTorch Dataset for loading video data
-├── run.py                 # Main script for training and evaluation
-├── solution.ipynb         # Jupyter notebook with explanations, EDA, results
-├── Video Classifier Assignment.pdf  # Assignment description
+├── CNN3D.py               
+├── VideoEncoder.py       
+├── classification_layer.py 
+├── gymdata.py            
+├── run.py                 
+├── solution.ipynb         
+├── Video Classifier Assignment.pdf  
 ```
 
 ---
@@ -87,13 +87,14 @@ jupyter notebook solution.ipynb
 
 ## Files Description
 
-- ``: Defines the 3D CNN feature extractor.
-- ``: Handles reading and encoding videos for input into the model.
-- ``: Final classification head used for workout type prediction.
-- ``: Custom PyTorch Dataset class for loading workout videos and labels.
-- ``: Trains and evaluates the model; entry point for running experiments.
-- ``: Full project notebook with explanations, results, and insights.
-- ``: Assignment brief and instructions.
+- `CNN3D.py`: Defines the 3D CNN feature extractor.
+- `VideoEncoder.py`: Handles reading and encoding videos for input into the model.
+- `classification_layer.py`: Final classification head used for workout type prediction.
+- `gymdata.py`: Custom PyTorch Dataset class for loading workout videos and labels.
+- `run.py`: Trains and evaluates the model; entry point for running experiments.
+- `solution.ipynb`: Full project notebook with explanations, results, and insights.
+- `Video Classifier Assignment.pdf`: Assignment brief and instructions.
+
 
 ---
 
@@ -112,7 +113,7 @@ If you use this code or ideas from this repository, please cite the original dat
 
 ## License
 
-This project is for academic use. Please see [Kaggle's dataset terms of use](https://www.kaggle.com/datasets/hasyimabdillah/workoutfitness-video/data) for dataset licensing.
+Please see [Kaggle's dataset terms of use](https://www.kaggle.com/datasets/hasyimabdillah/workoutfitness-video/data) for dataset licensing.
 
 ---
 
