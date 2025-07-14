@@ -122,6 +122,4 @@ For any questions or suggestions, feel free to open an issue or contact [Ohad Co
 
 ---
 
-Let me know if you want to add your actual name/email or any specific result/highlight from your notebook! I can also generate a requirements.txt if you need.
-
 
