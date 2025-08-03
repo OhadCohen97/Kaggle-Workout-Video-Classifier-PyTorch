@@ -56,7 +56,7 @@ def train_model(model, data_loader, optimizer,criterion,device):
 
         outputs = model(inputs)
             
-        loss = criterion(outputs, targets) # for bilstm
+        loss = criterion(outputs, targets)
 
         total_loss += loss.item()
 
